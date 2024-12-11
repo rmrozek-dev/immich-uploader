@@ -14,7 +14,8 @@ due this fact script require create root folder which contains all folders with 
 1. mkdir rootdir
 2. copy to rootdir all directories which contains photos/images you need to upload (subdirs should be flat contains only files .jpeg, .jpg, not second level of subdirs)
 3. put uploader.py next to rootdir
-4. run python3 uploader.py ./rootdir
+4. make config adjustment inside script (put api key, and valid address of immich instance) 
+5. run python3 uploader.py ./rootdir
 
 # compatibility 
 script is compatible with api serving by immich v1.122.1
