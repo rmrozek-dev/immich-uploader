@@ -1,5 +1,6 @@
 # immich-uploader
 simple immich mass uploader written in python
+
 the idea of the script is to allow you to automate the uploading multiple folders containing photos/images and create albums representing photos/images from each folder.
 
 # prerequisite
